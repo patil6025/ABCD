@@ -1,6 +1,14 @@
 # ABCD
+## Obstacle Detection Robot | Arduino
 
-### 🔧 TinkerCAD Circuit Simulation
-Click the link below to open the full circuit and run simulation:
+### 🔧 Project Details
+An Arduino-based obstacle detection robot that uses an ultrasonic sensor to measure distance and avoid obstacles automatically.
 
-➡️ [Open TinkerCAD Simulation](https://www.tinkercad.com/things/5MSPJWvNYjH-surprising-kasi)
+### 🛠 Simulation (TinkerCAD)
+🔗 (https://www.tinkercad.com/things/5MSPJWvNYjH-surprising-kasi)
+
+### 🎥 Demo Video
+🔗 https://youtu.be/YourVideoLink
+
+### 📁 Code File
+➡️ `Obstacle-Detection-Robot.ino`
