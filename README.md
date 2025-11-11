@@ -1,1 +1,6 @@
 # ABCD
+
+### 🔧 TinkerCAD Circuit Simulation
+Click the link below to open the full circuit and run simulation:
+
+➡️ [Open TinkerCAD Simulation](https://www.tinkercad.com/things/5MSPJWvNYjH-surprising-kasi)
